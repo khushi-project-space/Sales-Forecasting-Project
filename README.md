@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Forecasting Using Time Series Analysis
 
 A portfolio-ready beginner project that explores retail revenue trends, compares forecasting baselines with ARIMA and Holt-Winters, evaluates results on a chronological holdout set, and generates a 30-day forecast.
@@ -92,3 +93,6 @@ Forecasts can support inventory planning, staffing, and promotion scheduling. Va
 
 ## License
 MIT. See `LICENSE`.
+=======
+# Sales-Forecasting-Project
+>>>>>>> af22103c06f5bf9a209a22e91eee9dda0f876138
